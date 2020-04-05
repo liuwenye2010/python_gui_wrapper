@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_GUI_Wrapper", "Wpf_GUI_Wrapper\Wpf_GUI_Wrapper.csproj", "{74999BDB-2768-4D2C-86A7-0A64BE1D5A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74999BDB-2768-4D2C-86A7-0A64BE1D5A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74999BDB-2768-4D2C-86A7-0A64BE1D5A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74999BDB-2768-4D2C-86A7-0A64BE1D5A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74999BDB-2768-4D2C-86A7-0A64BE1D5A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74F6E82-8D09-471A-A702-A057DE986CE1}
+	EndGlobalSection
+EndGlobal
