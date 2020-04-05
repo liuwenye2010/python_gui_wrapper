@@ -6,5 +6,13 @@
     4. using wpf as gui wrapper 
     5. using UWP as gui wrapper
     6. using Electron as gui wrapper
+	
+	
+## pack py into exe with pyintaller 
+### pyinstaller check_mcu_map.py  -F 
+### makefile with git command windows or cygwin , test for windows 
+#### make
+#### check_mcu_map.exe -h 
+#### check_mcu_map.exe -i mcu_ns.map 
     
     
