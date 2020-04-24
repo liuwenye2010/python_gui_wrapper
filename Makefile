@@ -2,7 +2,6 @@
 
 
 target-output	= check_mcu_map.exe
-target-win
 
 target_all      = $(target-output) 
 
